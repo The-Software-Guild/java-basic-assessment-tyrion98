@@ -106,6 +106,9 @@ public class RockPaperScissors {
             System.exit(0);
         }
         
+        // close scanner 
+        sc.close();
+        
     }
      
     // winner print
